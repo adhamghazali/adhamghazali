@@ -11,6 +11,13 @@ I am Adham, An experienced entrepreneur who loves to lead early-stage engineerin
     https://bit.ly/3sHHJMb
 -   A robot DFM
     https://bit.ly/3a1wo2U
+    
+##### Coference Talks
+- Autonomous Driving in Unknown Areas | TheMarker:
+https://youtu.be/PXhobC0lw4s
+- Vision-based Autonomous driving | IMVC 2019:
+https://www.youtube.com/watch?v=VtCqX0YzSBw&t=4s
+
 
 ##### Granted Patents
 -	U.S. Patent 1189006, “Real-time Generation of Functional Road maps,” Nov 30, 2021
