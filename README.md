@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Adham, An experienced entrepreneur who loves to lead early-stage engineering teams in the fields of AI, Robotics, and Autonomous Systems.
+I am Adham, an experienced entrepreneur who loves to lead early-stage engineering teams in the fields of AI, Robotics, and Autonomous Systems.
+I like to train large deep neural nets 🧠🤖💥
+
 
 - 🔭 I’m currently working on Text_to_Image generators
 - 🌱 I’m currently learning NLP
