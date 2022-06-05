@@ -3,7 +3,7 @@
 I am Adham, an experienced entrepreneur who loves to lead early-stage engineering teams in the fields of AI, Robotics, and Autonomous Systems.
 I like to train large deep neural nets 🧠🤖💥
 
-<img src=".\ai-emoji_process_face2_gif.gif" alt="ai-emoji_process_face2_gif" style="zoom:50%;" />
+<img src=".\ai-emoji_process_face2_gif.gif" alt="ai-emoji_process_face2_gif" style="zoom:50%;" align='center' />
 
 
 - 🔭 I’m currently working on Text_to_Image generators
