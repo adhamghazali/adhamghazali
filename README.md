@@ -3,6 +3,8 @@
 I am Adham, an experienced entrepreneur who loves to lead early-stage engineering teams in the fields of AI, Robotics, and Autonomous Systems.
 I like to train large deep neural nets 🧠🤖💥
 
+<img src="C:\Users\Imagry\Desktop\linux\adhamghazali\ai-emoji_process_face2_gif.gif" alt="ai-emoji_process_face2_gif" style="zoom:50%;" />
+
 
 - 🔭 I’m currently working on Text_to_Image generators
 - 🌱 I’m currently learning NLP
@@ -25,5 +27,4 @@ https://www.youtube.com/watch?v=VtCqX0YzSBw&t=4s
 -	U.S. Patent 1189006, “Real-time Generation of Functional Road maps,” Nov 30, 2021
 -	U.S. Patent 10380459, “System and method for image classification,” Aug 13, 2019
 -	U.S. Patent 10242264, “System and method for training a machine-learning model to identify real-world elements,” Mar 26, 2019
-
 
